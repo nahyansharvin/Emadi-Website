@@ -8763,6 +8763,8 @@ Section Title
 .why-choose-us {
   position: relative;
   padding: 120px 0 90px;
+  background-color: #212121;
+
 }
 .why-choose-us .icon-plane-3 {
   left: -350px;
@@ -8770,6 +8772,7 @@ Section Title
 }
 .why-choose-us .outer-box {
   position: relative;
+  padding-top: 90px;
 }
 .why-choose-us .outer-box .float-image {
   position: absolute;
