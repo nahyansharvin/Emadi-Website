@@ -1,6 +1,6 @@
-/* Transpress | Logistic & Transport HTML Template
+/* Emadi Transport | Logistic & Transport
 
-Template Name: Transpress
+Client Name: Emadi Transport
 Version: 1.0.0
 License: copyright commercial
 
@@ -47,7 +47,8 @@ License: copyright commercial
 :root {
   --theme-color-light: #ffffff;
   --theme-color-dark: #181818;
-  --theme-color1: #ca1f26;
+  --theme-color1: #138b96;
+  /* --theme-color1: #ca1f26; */
   --theme-color2: #febe42;
   --theme-color3: #ff9205;
   --bg-theme-color1: var(--theme-color1);
