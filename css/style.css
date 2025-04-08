@@ -778,6 +778,27 @@ li {
 }
 
 /*=======================
+Floating Whatsapp style
+=======================*/
+.whatsapp-float{
+	position:fixed;
+	width:60px;
+	height:60px;
+	bottom:30px;
+	right:30px;
+	background-color: var(--theme-color1);
+	color:#FFF;
+	border-radius:50px;
+	text-align:center;
+  font-size:30px;
+	box-shadow: 1px 1px 5px #85aeb1;
+  z-index:100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/*=======================
 Scroll To Top style
 =======================*/
 .scroll-to-top {
