@@ -1956,6 +1956,10 @@ Scroll To Top style
   background-image: url(../images/icons/icon-plane-3.png);
 }
 
+.icon-plane-3.dark {
+  background-image: url(../images/icons/icon-plane-3-dark.png);
+}
+
 .icon-plane-4 {
   width: 1627px;
   height: 272px;
