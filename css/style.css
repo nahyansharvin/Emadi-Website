@@ -9931,6 +9931,10 @@ Section Title
         -ms-flex-order: 0 !important;
             order: 0 !important;
   }
+
+  .contact-details__right {
+    margin-bottom: 20px;
+  }
 }
 .contact-section .form-column .contact-form {
   margin-top: 30px;
